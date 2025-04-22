@@ -67,6 +67,7 @@ function App() {
     <div
       style={{
         maxWidth: "800px",
+        maxHeight: "1920px",
         display: "flex",
         flexDirection: "column",
         gap: "2rem",
